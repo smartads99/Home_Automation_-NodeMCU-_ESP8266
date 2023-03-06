@@ -25,5 +25,7 @@ number of outputs we’ll be able to control.
 
    MIT App Inventor  is an open-source web application for Android. Originally it was created by Google, but now it is maintained by the Massachusetts Institute of Technology (MIT). By using MIT app inventor a beginner can also create software applications for Android easily. MIT app inventor uses graphical interface, in which users can drag-and-drop visual objects to create an application that can run on Android devices. After designing app on MIT app inventor, you can download it on your Android phone using the QR code, or you can download its APK on your PC and later install it on your smartphone. After that, we will connect the app to ESP8266 and control the  Ac appliances.
 
+## Setup Process...
+   
 
 
